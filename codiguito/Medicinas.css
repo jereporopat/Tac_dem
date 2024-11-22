@@ -1,0 +1,48 @@
+body{
+    background-color: grey;
+}
+#Contenido{
+    background-color: rgb(255, 255, 255);
+    height: 90%;
+    width: 90%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    opacity: 70%;
+    border-radius: 10px;
+}
+#Titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    position: relative;
+    left: 45%;
+}
+#i{
+    background-image:url(img/tact.png) ;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 47%;
+}
+input{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green;
+    height: 25px;
+    border-radius: 1px;
+}
+button{
+    height: 35px;
+    width: 70px;
+    color: whitesmoke;
+    background-color: grey;
+    border-radius: 10px;
+    border: none;
+}
+#btdiv{
+    position: relative;
+    left: 40%;
+}
+#block{
+    position: relative;
+    left: 10%;
+}
